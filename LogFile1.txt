@@ -1,0 +1,17 @@
+==================================================
+[30.12.2022][19:58]
+The computer guesses a number from 1 to 7. Number of attempts to guess it 3
+The computer thinks of a number: 4
+[30.12.2022][19:59]
+User has 1 attempt out of 3
+The user enters a number: 5
+[30.12.2022][19:59]
+The computer tells the user that the guessed number is less than the user entered
+5 > 4
+[30.12.2022][20:1]
+User has 2 attempt out of 3
+The user enters a number: 4
+[30.12.2022][20:1]
+4 == 4
+The user guessed the number. User won!!!
+==================================================
